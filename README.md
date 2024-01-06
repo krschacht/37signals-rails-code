@@ -28,5 +28,4 @@ Episode #1 - Pilot Episode
 
 This spirit of sharing was continued by Jorge Manrubia in a series of articles title [Code I Like](https://dev.37signals.com/series/code-i-like/). All of the Hey reference code came from Jorge's articles.
 
-It's worth watching and reading all of the above.
-
+It's worth watching and reading all of the above, if you want to know more. But I've found it helpful to have all the code samples organized into a repo to help me piece together how the team thinks about the overall code organization and domain model.
